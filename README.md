@@ -25,6 +25,23 @@ A clustering-based analytics project for a Pakistani fashion (lawn suit) brand. 
 
 Character n-grams are used because Roman Urdu has no fixed spelling (e.g. *kitna / kitnaa / ketna*).
 
+## Dashboard screenshots
+
+**1. Content:** which content types attract attention
+![Content](screenshots/1_content.png)
+
+**2. Audience wants:** comment groups
+![Audience wants](screenshots/2_audience_wants.png)
+
+**3. Unusual posts:** posts that differ from comparable posts
+![Unusual posts](screenshots/3_unusual_posts.png)
+
+**4. Audience segments:** language and need
+![Audience segments](screenshots/4_audience_segments.png)
+
+**5. Next steps:** recommended actions
+![Next steps](screenshots/5_next_steps.png)
+
 ## Key results (simulated data)
 
 - **Reels** have the highest engagement rate (about 7.6%); **Product Photos** the lowest (about 4.0%). Reels lead on all three platforms.

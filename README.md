@@ -1,5 +1,7 @@
 # Pakistan Social Audience & Campaign Intelligence Engine
 
+**Live app:** [https://pakistan-audience-engine.streamlit.app/](https://pakistan-audience-engine.streamlit.app/)
+
 A clustering-based analytics project for a Pakistani fashion (lawn suit) brand. It analyses social media posts and comments to find **what the audience wants**, **which posts behave unusually**, and **what the marketing team should do next**.
 
 > **Data note:** the demo dataset is **simulated** (every row has `data_source = simulated`). See [DATA_SOURCES.md](DATA_SOURCES.md).
